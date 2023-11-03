@@ -1,1 +1,1 @@
-additional file for new_branch
+added for conflict
